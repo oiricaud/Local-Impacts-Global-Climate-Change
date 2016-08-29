@@ -50,7 +50,7 @@ $active_record = TRUE;
 
 $db['default']['hostname'] = 'ilinkbeta.cybershare.utep.edu';
 $db['default']['username'] = 'climatesurvey';
-$db['default']['password'] = 'PwxCMGYJtzfzTjAM';
+$db['default']['password'] = 'xxxxxxxxxxxxx';
 $db['default']['database'] = 'climatesurvey';
 $db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = '';
